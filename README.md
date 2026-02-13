@@ -126,3 +126,4 @@
 2026-02-13 18:23:57 - updated solidity comment
 2026-02-13 18:24:04 - adjusted require check
 2026-02-13 18:24:12 - updated solidity comment
+2026-02-13 18:24:19 - simplified logic branch
