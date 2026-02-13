@@ -195,3 +195,4 @@
 2026-02-13 21:06:03 - improved function logic
 2026-02-13 21:06:10 - adjusted require check
 2026-02-13 21:06:18 - simplified logic branch
+2026-02-13 21:06:25 - added inline comment
