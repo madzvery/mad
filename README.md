@@ -75,3 +75,4 @@
 2026-02-13 18:17:45 - cleaned contract block
 2026-02-13 18:17:52 - minor internal refactor
 2026-02-13 18:17:59 - refined storage layout
+2026-02-13 18:18:07 - simplified logic branch
