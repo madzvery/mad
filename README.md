@@ -7,3 +7,4 @@
 2026-02-13 14:52:16 - adjusted require check
 2026-02-13 14:52:23 - simplified logic branch
 2026-02-13 14:52:30 - updated modifier
+2026-02-13 14:52:37 - refined storage layout
