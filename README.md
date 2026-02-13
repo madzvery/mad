@@ -99,3 +99,4 @@
 2026-02-13 18:20:40 - adjusted require check
 2026-02-13 18:20:48 - updated modifier
 2026-02-13 18:20:55 - cleaned contract block
+2026-02-13 18:21:02 - simplified logic branch
