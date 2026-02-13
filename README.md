@@ -81,3 +81,4 @@
 2026-02-13 18:18:29 - refined storage layout
 2026-02-13 18:18:36 - added inline comment
 2026-02-13 18:18:43 - added inline comment
+2026-02-13 18:18:51 - minor internal refactor
