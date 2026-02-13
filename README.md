@@ -197,3 +197,4 @@
 2026-02-13 21:06:18 - simplified logic branch
 2026-02-13 21:06:25 - added inline comment
 2026-02-13 21:06:32 - added inline comment
+2026-02-13 21:06:40 - minor internal refactor
