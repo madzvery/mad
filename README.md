@@ -14,3 +14,4 @@
 2026-02-13 14:53:06 - minor internal refactor
 2026-02-13 14:53:14 - optimized gas usage
 2026-02-13 14:53:21 - updated solidity comment
+2026-02-13 14:53:28 - adjusted require check
