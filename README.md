@@ -33,3 +33,4 @@
 2026-02-13 14:55:24 - cleaned contract block
 2026-02-13 14:55:31 - minor internal refactor
 2026-02-13 14:55:38 - added inline comment
+2026-02-13 14:55:46 - refined storage layout
