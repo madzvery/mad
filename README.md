@@ -190,3 +190,4 @@
 2026-02-13 21:05:26 - updated modifier
 2026-02-13 21:05:34 - improved function logic
 2026-02-13 21:05:41 - cleaned contract block
+2026-02-13 21:05:48 - simplified logic branch
