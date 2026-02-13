@@ -194,3 +194,4 @@
 2026-02-13 21:05:56 - cleaned contract block
 2026-02-13 21:06:03 - improved function logic
 2026-02-13 21:06:10 - adjusted require check
+2026-02-13 21:06:18 - simplified logic branch
