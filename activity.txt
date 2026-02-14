@@ -276,3 +276,4 @@ init
 2026-02-14 13:03:30 - simplified logic branch
 2026-02-14 13:03:37 - adjusted require check
 2026-02-14 21:05:07 - updated modifier
+2026-02-14 21:05:12 - refined storage layout
