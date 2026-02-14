@@ -266,3 +266,4 @@
 2026-02-14 13:03:16 - minor internal refactor
 2026-02-14 13:03:23 - minor internal refactor
 2026-02-14 13:03:30 - simplified logic branch
+2026-02-14 13:03:37 - adjusted require check
