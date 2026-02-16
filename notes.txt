@@ -64,3 +64,4 @@
 2026-02-16 10:39:22 - improved function logic
 2026-02-16 10:40:46 - improved function logic
 2026-02-16 10:41:13 - improved function logic
+2026-02-16 10:41:46 - refined storage layout
